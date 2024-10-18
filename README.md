@@ -389,7 +389,7 @@ Example:
 
 ## Subscriptions
 
-TBD: describe the API to submit subscriptions
+TBD: describe the API to submit subscriptions to my wallet
 
 ```
 https://app.tonkeeper.com/v1/subscribe/<invoice-id>
